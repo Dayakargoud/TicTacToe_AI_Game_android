@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="wish">Good luck.hope you win...</string>
+    <string name="game_over">Better luck next time</string>
+</resources>
